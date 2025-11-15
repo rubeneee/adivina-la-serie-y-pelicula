@@ -1,2 +1,2 @@
-# adivina-la-serie
-Juego de adivinar series por la intro
+# adivina-la-serie-y-película
+Juego de adivinar series y películas por la intro
